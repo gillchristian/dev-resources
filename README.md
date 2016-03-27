@@ -26,6 +26,10 @@ _*[Docs](https://docs.angularjs.org/api)*_.
 - AngularJS Patterns and good practices: [Todd Motto blog](http://toddmotto.com/).
 - [Scotch.io](https://scotch.io/): [Angular Tutos](https://scotch.io/tag/angular-js).
 
+##[Ionic](http://ionicframework.com/)
+
+- [Get started](https://www.youtube.com/watch?v=C-UwOWB9Io4)
+
 ##[Angular 2](https://angular.io/)
 
 _*[Docs](https://angular.io/docs/ts/latest/)*_
