@@ -20,6 +20,7 @@ _*[Docs](https://docs.angularjs.org/api)*_.
 ###Guides
 
 - [John Papa Angular Style Guide](http://www.johnpapa.net/angular-style-guide/)
+- [Todd Motto](https://github.com/toddmotto/angular-styleguide)
 
 ###Blogs
 
