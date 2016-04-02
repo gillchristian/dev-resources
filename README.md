@@ -40,6 +40,11 @@ _*[Docs](https://angular.io/docs/ts/latest/)*_
 
 _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 
+###Modules
+
+- [Redux](http://redux.js.org/index.html)
+    - [egghead.io Dan abramov series](https://egghead.io/series/getting-started-with-redux)
+
 ###Guides
 
 - [Airbnb style guide](https://github.com/airbnb/javascript/tree/master/react).
@@ -66,21 +71,3 @@ _*[ES6 in Node.js](https://nodejs.org/en/docs/es6/)*_
 _*[Docs](http://api.jquery.com/)*_
 
 - [JQuery Builder](http://projects.jga.me/jquery-builder/).
-
-#WordPress
-
-##[CPT](https://github.com/gillchristian/CPT)
-Custom Post Types and Taxonomies creation.
-
-##[CMB2](https://github.com/WebDevStudios/CMB2)
-Custom Meta Boxes and Fields framework from [WebDevStudios](http://webdevstudios.com/)
-
-- [WebDevStudios Github](https://github.com/WebDevStudios).
-- [Wiki](https://github.com/WebDevStudios/CMB2/wiki).
-- [Snippet Library](https://github.com/WebDevStudios/CMB2-Snippet-Library).
-
-###Resources
-
-- [Options Page](https://github.com/WebDevStudios/CMB2-Snippet-Library/tree/master/options-and-settings-pages).
-- [Tabbed Options Page](http://arushad.org/how-to-create-a-tabbed-options-page-for-your-wordpress-theme-using-cmb/).
-- [Snippet generator](http://hasinhayder.github.io/cmb2-metabox-generator/).
