@@ -30,6 +30,7 @@ _*[Docs](https://docs.angularjs.org/api)*_.
 ##[Ionic](http://ionicframework.com/)
 
 - [Get started](https://www.youtube.com/watch?v=C-UwOWB9Io4)
+- [Create your first app](https://scotch.io/tutorials/create-your-first-mobile-app-with-angularjs-and-ionic)
 
 ##[Angular 2](https://angular.io/)
 
