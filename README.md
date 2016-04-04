@@ -65,6 +65,8 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 _*[Docs: v4.x.x LST](https://nodejs.org/dist/latest-v4.x/docs/api/)*_.
 _*[ES6 in Node.js](https://nodejs.org/en/docs/es6/)*_
 
+[Understanding socket-io](https://medium.com/@Grigorkh/understanding-socket-io-23ad6d26d003#.bysrc710r)
+
 ###Guides
 [The art of node](https://github.com/maxogden/art-of-node). Introduction to Node.js
 
