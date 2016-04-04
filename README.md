@@ -45,6 +45,7 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 
 - [Redux](http://redux.js.org/index.html)
     - [egghead.io Dan abramov series](https://egghead.io/series/getting-started-with-redux)
+- [Radium](http://stack.formidable.com/radium/). Inline style enhancements.
 
 ###Guides
 
