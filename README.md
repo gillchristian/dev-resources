@@ -24,8 +24,12 @@ _*[Docs](https://docs.angularjs.org/api)*_.
 
 ###Blogs
 
-- AngularJS Patterns and good practices: [Todd Motto blog](http://toddmotto.com/).
-- [Scotch.io](https://scotch.io/): [Angular Tutos](https://scotch.io/tag/angular-js).
+- AngularJS Patterns and good practices: [Todd Motto blog](http://toddmotto.com/)
+- [Scotch.io](https://scotch.io/): [Angular Tutos](https://scotch.io/tag/angular-js)
+
+###Articles
+
+- [Anatomy of a large application](https://medium.com/@bojzi/anatomy-of-a-large-angular-application-f098e5e36994#.21vop7qt8)
 
 ##[Ionic](http://ionicframework.com/)
 
