@@ -16,6 +16,7 @@ _*[Docs](https://docs.angularjs.org/api)*_.
 - [ngTable](http://ng-table.com/#/).
 - [ui.router](http://angular-ui.github.io/ui-router/site/#/api/ui.router).
 - [ui.bootstrap](https://angular-ui.github.io/bootstrap/).
+- [angular-loading-bar](https://github.com/chieffancypants/angular-loading-bar)
 
 ###Guides
 
