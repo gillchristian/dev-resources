@@ -76,6 +76,8 @@ _*[ES6 in Node.js](https://nodejs.org/en/docs/es6/)*_
 - [The art of node](https://github.com/maxogden/art-of-node). Introduction to Node.js
 - [Nodeschool.io](http://nodeschool.io/).
 
+###Resources
+- [Now](https://zeit.co/now). Free, one step server & deploy.
 #[jQuery](https://jquery.com/)
 
 _*[Docs](http://api.jquery.com/)*_
