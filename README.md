@@ -78,6 +78,7 @@ _*[ES6 in Node.js](https://nodejs.org/en/docs/es6/)*_
 
 ###Resources
 - [Now](https://zeit.co/now). Free, one step server & deploy.
+
 #[jQuery](https://jquery.com/)
 
 _*[Docs](http://api.jquery.com/)*_
