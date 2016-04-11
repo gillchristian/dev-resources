@@ -84,8 +84,6 @@ _*[ES6 in Node.js](https://nodejs.org/en/docs/es6/)*_
 [reactivex.io](http://reactivex.io). Reactive programing library (observables pattern).
 
 
-#[jQuery](https://jquery.com/)
+##[Webpack](https://webpack.github.io/)
 
-_*[Docs](http://api.jquery.com/)*_
-
-- [JQuery Builder](http://projects.jga.me/jquery-builder/).
+- [Webpack The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.8yf9a2pjt).
