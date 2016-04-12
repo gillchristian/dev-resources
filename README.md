@@ -86,4 +86,31 @@ _*[ES6 in Node.js](https://nodejs.org/en/docs/es6/)*_
 
 ##[Webpack](https://webpack.github.io/)
 
+- [Docs](http://webpack.github.io/docs/what-is-webpack.html).
+- [Getting started tutorial](http://webpack.github.io/docs/tutorials/getting-started/).
+
+###Articles / guides / posts
+
 - [Webpack The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.8yf9a2pjt).
+
+##Testing
+_runers, assertion libs, suites, etc._
+
+###E2E
+
+- [Protractor](https://angular.github.io/protractor/#/).
+- [Cucumber.js](https://github.com/cucumber/cucumber-js).
+- [Protractor-cucumber Framework](https://github.com/mattfritz/protractor-cucumber-framework).
+
+###Unit
+
+- [Karma](http://karma-runner.github.io/0.13/index.html).
+
+###Runners
+
+- [Mocha](https://mochajs.org/).
+
+###Assertion libs
+
+- [Chai](http://chaijs.com/).
+- [Jasmine](http://jasmine.github.io/edge/introduction.html).
