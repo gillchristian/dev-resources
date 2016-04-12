@@ -7,6 +7,8 @@
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).
 - [Small js libraries](http://microjs.com/)
 
+--------------------------------
+
 ##[Angular 1.x](https://angularjs.org/)
 
 _*[Docs](https://docs.angularjs.org/api)*_.
@@ -32,15 +34,20 @@ _*[Docs](https://docs.angularjs.org/api)*_.
 
 - [Anatomy of a large application](https://medium.com/@bojzi/anatomy-of-a-large-angular-application-f098e5e36994#.21vop7qt8)
 
+--------------------------------
+
 ##[Ionic](http://ionicframework.com/)
 
 - [Get started](https://www.youtube.com/watch?v=C-UwOWB9Io4)
 - [Create your first app](https://scotch.io/tutorials/create-your-first-mobile-app-with-angularjs-and-ionic)
 
+--------------------------------
+
 ##[Angular 2](https://angular.io/)
 
 _*[Docs](https://angular.io/docs/ts/latest/)*_
 
+--------------------------------
 
 ##[React](https://facebook.github.io/react/index.html)
 
@@ -65,7 +72,9 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 - _SurviveJS - React and webpack_: [Github](https://github.com/survivejs/webpack_react/tree/master/manuscript) and [blog](http://survivejs.com/webpack_react/introduction/) versions.
 - React by example: [free chapter](http://reactkungfu.com/assets/misc/sample.pdf).
 
-#[Node.js](https://nodejs.org/)
+--------------------------------
+
+##[Node.js](https://nodejs.org/)
 
 _*[Docs: v4.x.x LST](https://nodejs.org/dist/latest-v4.x/docs/api/)*_.
 _*[ES6 in Node.js](https://nodejs.org/en/docs/es6/)*_
@@ -79,10 +88,13 @@ _*[ES6 in Node.js](https://nodejs.org/en/docs/es6/)*_
 ###Resources
 - [Now](https://zeit.co/now). Free, one step server & deploy.
 
-#Reactive programing
+--------------------------------
+
+##Reactive programing
 
 [reactivex.io](http://reactivex.io). Reactive programing library (observables pattern).
 
+--------------------------------
 
 ##[Webpack](https://webpack.github.io/)
 
@@ -92,6 +104,8 @@ _*[ES6 in Node.js](https://nodejs.org/en/docs/es6/)*_
 ###Articles / guides / posts
 
 - [Webpack The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.8yf9a2pjt).
+
+--------------------------------
 
 ##Testing
 _runers, assertion libs, suites, etc._
