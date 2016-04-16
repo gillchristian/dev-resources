@@ -128,3 +128,11 @@ _runers, assertion libs, suites, etc._
 
 - [Chai](http://chaijs.com/).
 - [Jasmine](http://jasmine.github.io/edge/introduction.html).
+
+-----------------------------
+
+##Single purpose libraries
+
+- [Immutable.js](https://facebook.github.io/immutable-js/). Immutable data structures.
+- [D3.JS](https://d3js.org). Data driven documents.
+- [Moment.js](http://momentjs.com). Time dome right.
