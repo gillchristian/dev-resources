@@ -137,3 +137,4 @@ _runers, assertion libs, suites, etc._
 - [Immutable.js](https://facebook.github.io/immutable-js/). Immutable data structures.
 - [D3.JS](https://d3js.org). Data driven documents.
 - [Moment.js](http://momentjs.com). Time dome right.
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js/). CLI creatin helper.
