@@ -47,6 +47,8 @@ _*[Docs](https://docs.angularjs.org/api)*_.
 
 _*[Docs](https://angular.io/docs/ts/latest/)*_
 
+- [Egghead tutorials](https://egghead.io/technologies/angular2)
+
 --------------------------------
 
 ##[React](https://facebook.github.io/react/index.html)
