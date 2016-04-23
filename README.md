@@ -145,3 +145,11 @@ _runers, assertion libs, suites, etc._
 - [Moment.js](http://momentjs.com). Time dome right.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js/). CLI creatin helper.
 - [Bluebird](http://bluebirdjs.com/docs/getting-started.html). Promises.
+
+-----------------------------
+
+#CSS
+
+##Flexbox
+
+- [Flexbox patterns](http://www.flexboxpatterns.com/home).
