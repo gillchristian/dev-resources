@@ -153,3 +153,8 @@ _runers, assertion libs, suites, etc._
 ##Flexbox
 
 - [Flexbox patterns](http://www.flexboxpatterns.com/home).
+
+
+#GIT
+
+- [The simple guide](http://rogerdudler.github.io/git-guide/)
