@@ -153,6 +153,7 @@ _runers, assertion libs, suites, etc._
 ##Flexbox
 
 - [Flexbox patterns](http://www.flexboxpatterns.com/home).
+- [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/).
 
 
 #GIT
