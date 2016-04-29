@@ -155,7 +155,11 @@ _runers, assertion libs, suites, etc._
 - [Flexbox patterns](http://www.flexboxpatterns.com/home).
 - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/).
 
+-----------------------------
 
 #GIT
 
 - [The simple guide](http://rogerdudler.github.io/git-guide/)
+- Atlassian GIT:
+  - [Homepage](https://www.atlassian.com/git/).
+  - [Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/).
