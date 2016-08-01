@@ -163,3 +163,12 @@ _runers, assertion libs, suites, etc._
 - Atlassian GIT:
   - [Homepage](https://www.atlassian.com/git/).
   - [Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/).
+
+#[Docker](https://www.docker.com/)
+
+- [What is Docker?](https://www.docker.com/what-docker).
+
+#[Golang](https://golang.org/)
+
+- [A tour of Go](https://tour.golang.org/). Golang's oficial tutorial.
+- [An Introduction to programming in Go](http://www.golang-book.com/books/intro). Book.
