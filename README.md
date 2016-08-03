@@ -168,7 +168,14 @@ _runers, assertion libs, suites, etc._
 
 - [What is Docker?](https://www.docker.com/what-docker).
 
+## Installation
+
+- [Docker for Mac](https://docs.docker.com/engine/installation/mac/#/docker-for-mac).
+- [Docker for Windows](https://docs.docker.com/engine/installation/windows/#/docker-for-windows).
+- [Installation on Ubuntu](https://docs.docker.com/engine/installation/linux/ubuntulinux/).
+
 #[Golang](https://golang.org/)
 
 - [A tour of Go](https://tour.golang.org/). Golang's oficial tutorial.
+
 - [An Introduction to programming in Go](http://www.golang-book.com/books/intro). Book.
