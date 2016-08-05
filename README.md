@@ -188,7 +188,7 @@ _runers, assertion libs, suites, etc._
 
 #Microservices Architecture
 
-*Seven articles series*. _Nginx_
+**Seven articles series"*. _Nginx_
 
 - [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/).
 - [Building Microservices: Using an API Gateway](https://www.nginx.com/blog/introduction-to-microservices/).
@@ -198,7 +198,7 @@ _runers, assertion libs, suites, etc._
 - [Choosing a Microservices Deployment Strategy](https://www.nginx.com/blog/deploying-microservices/).
 - [Refactoring a Monolith into Microservices](https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/).
 
-*Migrating a monolithic app to microservices*. _Docker_, _Bluemix_.
+**Migrating a monolithic app to microservices**. _Docker_, _Bluemix_.
 
 - [Part 1](http://blog.ibmjstart.net/2015/07/23/learning-microservices-architecture-bluemix-docker-part-1/).
 - [Part 2](http://blog.ibmjstart.net/2015/07/23/learning-microservices-architecture-bluemix-docker-part-2/).
