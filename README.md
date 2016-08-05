@@ -183,3 +183,17 @@ _runers, assertion libs, suites, etc._
 - [A tour of Go](https://tour.golang.org/). Golang's oficial tutorial.
 
 - [An Introduction to programming in Go](http://www.golang-book.com/books/intro). Book.
+
+-----------------------------
+
+#Microservices Architecture
+
+Seven articles series
+
+- [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/).
+- [Building Microservices: Using an API Gateway](https://www.nginx.com/blog/introduction-to-microservices/).
+- [Building Microservices: Inter-Process Communication in a Microservices Architecture](https://www.nginx.com/blog/building-microservices-inter-process-communication/).
+- [Service Discovery in a Microservices Architecture](https://www.nginx.com/blog/service-discovery-in-a-microservices-architecture/).
+- [Event-Driven Data Management for Microservices](https://www.nginx.com/blog/event-driven-data-management-microservices/).
+- [Choosing a Microservices Deployment Strategy](https://www.nginx.com/blog/deploying-microservices/).
+- [Refactoring a Monolith into Microservices](https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/).
