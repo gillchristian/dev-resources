@@ -188,7 +188,7 @@ _runers, assertion libs, suites, etc._
 
 #Microservices Architecture
 
-**Seven articles series"*. _Nginx_
+**Seven articles series**. _Nginx_
 
 - [Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/).
 - [Building Microservices: Using an API Gateway](https://www.nginx.com/blog/introduction-to-microservices/).
