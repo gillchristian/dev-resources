@@ -54,11 +54,12 @@ _*[Docs](https://angular.io/docs/ts/latest/)*_
 ##[React](https://facebook.github.io/react/index.html)
 
 _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
+[Create React App](https://github.com/facebookincubator/create-react-app). CLI to generate React apps with no configuration.
 
 ###Modules
 
-- [Redux](http://redux.js.org/index.html)
-    - [egghead.io Dan abramov series](https://egghead.io/series/getting-started-with-redux)
+- [Redux](http://redux.js.org/index.html).
+    - [egghead.io Dan abramov series](https://egghead.io/series/getting-started-with-redux).
 - [Radium](http://stack.formidable.com/radium/). Inline style enhancements.
 
 ###Guides
