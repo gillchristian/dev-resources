@@ -56,6 +56,7 @@ _*[Docs](https://angular.io/docs/ts/latest/)*_
 _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 
 [Create React App](https://github.com/facebookincubator/create-react-app). CLI to generate React apps with no configuration.
+[MERN Stack](http://mern.io/). _Mongo, Express, React, Node_.
 
 ###Modules
 
