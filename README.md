@@ -60,8 +60,6 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 
 ###Modules
 
-- [Redux](http://redux.js.org/index.html).
-    - [egghead.io Dan abramov series](https://egghead.io/series/getting-started-with-redux).
 - [Radium](http://stack.formidable.com/radium/). Inline style enhancements.
 
 ###Guides
@@ -76,6 +74,23 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 
 - _SurviveJS - React and webpack_: [Github](https://github.com/survivejs/webpack_react/tree/master/manuscript) and [blog](http://survivejs.com/webpack_react/introduction/) versions.
 - React by example: [free chapter](http://reactkungfu.com/assets/misc/sample.pdf).
+
+--------------------------------
+
+## [Redux](http://redux.js.org/index.html)
+
+###Modules
+
+- [react-redux](https://github.com/reactjs/react-redux). Bindings for React.
+- [redux-thunk](https://github.com/gaearon/redux-thunk). Functions as actions.
+- [redux-optimist](https://github.com/ForbesLindesay/redux-optimist). Optimist state updates.
+- [redux-actions](https://github.com/acdlite/redux-actions). FLux Standard Actions for Redux.
+- [Normalizr](https://github.com/paularmstrong/normalizr). Normalize state tree.
+
+###Courses
+
+- [egghead.io Dan abramov series](https://egghead.io/series/getting-started-with-redux).
+
 
 --------------------------------
 
@@ -215,5 +230,3 @@ _runers, assertion libs, suites, etc._
 
 - [Docs](http://nginx.org/en/docs/).
 - [Blog](https://www.nginx.com/blog/).
-
-
