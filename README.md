@@ -56,6 +56,7 @@ _*[Docs](https://angular.io/docs/ts/latest/)*_
 _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 
 [Create React App](https://github.com/facebookincubator/create-react-app). CLI to generate React apps with no configuration.
+
 [MERN Stack](http://mern.io/). _Mongo, Express, React, Node_.
 
 ###Modules & Libraries
@@ -91,7 +92,8 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 
 ###Courses
 
-- [egghead.io Dan abramov series](https://egghead.io/series/getting-started-with-redux).
+- [Getting started with Redux](https://egghead.io/series/getting-started-with-redux). egghead.io Dan Abramov Series - Part 1.
+- [Building React applications with idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux). egghead.io Dan Abramov Series - Part 2.
 
 
 --------------------------------
