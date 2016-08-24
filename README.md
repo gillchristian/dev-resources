@@ -55,7 +55,7 @@ _*[Docs](https://angular.io/docs/ts/latest/)*_
 
 _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 
-[React FAQ]ttpss://github.com/timarney/react-faq).
+[React FAQ](https://github.com/timarney/react-faq).
 
 [Create React App](https://github.com/facebookincubator/create-react-app). CLI to generate React apps with no configuration.
 
