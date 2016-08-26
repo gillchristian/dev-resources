@@ -55,6 +55,8 @@ _*[Docs](https://angular.io/docs/ts/latest/)*_
 
 _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 
+[React Roadmap](https://github.com/ericdouglas/react-roadmap). A curated list of free resources to master React Development :sparkles:
+
 [React FAQ](https://github.com/timarney/react-faq).
 
 [Create React App](https://github.com/facebookincubator/create-react-app). CLI to generate React apps with no configuration.
