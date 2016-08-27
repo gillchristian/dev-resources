@@ -124,8 +124,8 @@ _*[ES6 in Node.js](https://nodejs.org/en/docs/es6/)*_
 
 ##Reactive programing
 
-- [reactivex.io](http://reactivex.io). Reactive programing library (observables pattern)
-- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [reactivex.io](http://reactivex.io). Reactive programing library (observables pattern).
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754).
 
 --------------------------------
 
@@ -133,6 +133,7 @@ _*[ES6 in Node.js](https://nodejs.org/en/docs/es6/)*_
 
 - [Docs](http://webpack.github.io/docs/what-is-webpack.html).
 - [Getting started tutorial](http://webpack.github.io/docs/tutorials/getting-started/).
+- [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard).
 
 ###Articles / guides / posts
 
