@@ -207,6 +207,7 @@ _runers, assertion libs, suites, etc._
 - [A tour of Go](https://tour.golang.org/). Golang's oficial tutorial.
 
 - [An Introduction to programming in Go](http://www.golang-book.com/books/intro). Book.
+- [Building web apps with Golang](https://github.com/astaxie/build-web-application-with-golang). Guide / Book.
 
 -----------------------------
 
