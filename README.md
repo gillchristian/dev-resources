@@ -190,7 +190,7 @@ _runers, assertion libs, suites, etc._
 
 -----------------------------
 
-#[Docker](https://www.docker.com/)
+#[Docker](https://www.docker.com/) :whale:
 
 - [What is Docker?](https://www.docker.com/what-docker).
 
@@ -200,12 +200,15 @@ _runers, assertion libs, suites, etc._
 - [Docker for Windows](https://docs.docker.com/engine/installation/windows/#/docker-for-windows).
 - [Installation on Ubuntu](https://docs.docker.com/engine/installation/linux/ubuntulinux/).
 
+##Best practices
+
+- [For writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/).
+
 -----------------------------
 
 #[Golang](https://golang.org/)
 
 - [A tour of Go](https://tour.golang.org/). Golang's oficial tutorial.
-
 - [An Introduction to programming in Go](http://www.golang-book.com/books/intro). Book.
 - [Building web apps with Golang](https://github.com/astaxie/build-web-application-with-golang). Guide / Book.
 
