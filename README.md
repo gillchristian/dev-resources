@@ -148,6 +148,8 @@ _runers, assertion libs, suites, etc._
 
 ###Unit
 
+- [AVA](https://github.com/avajs/ava). Futuristic JS test runner.
+- [Jest](https://facebook.github.io/jest/). _React_, _Snapshots_.
 - [Karma](http://karma-runner.github.io/0.13/index.html).
 
 ###Runners
