@@ -65,6 +65,7 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 
 ###Modules & Libraries
 
+- [react-router](https://github.com/ReactTraining/react-router/tree/v4). router v4.
 - [Radium](http://stack.formidable.com/radium/). Inline style enhancements.
 - [react-dnd](https://github.com/gaearon/react-dnd). Drang n Drop library.
 - [react-virtualized](https://bvaughn.github.io/react-virtualized/). React components for efficiently rendering large lists and tabular data.
