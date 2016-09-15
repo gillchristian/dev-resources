@@ -173,6 +173,7 @@ _runers, assertion libs, suites, etc._
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js/). CLI creatin helper.
 - [Bluebird](http://bluebirdjs.com/docs/getting-started.html). Promises.
 - [highlight.js](https://github.com/isagalaev/highlight.js). Syntax highlighting for the Web.
+- [Lerna](https://github.com/lerna/lerna). Manage JS projects with multiple npm packages.
 
 -----------------------------
 
