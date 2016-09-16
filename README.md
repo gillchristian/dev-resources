@@ -69,6 +69,7 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 - [Radium](http://stack.formidable.com/radium/). Inline style enhancements.
 - [react-dnd](https://github.com/gaearon/react-dnd). Drang n Drop library.
 - [react-virtualized](https://bvaughn.github.io/react-virtualized/). React components for efficiently rendering large lists and tabular data.
+- [Mobx](https://mobxjs.github.io/mobx/). Flux based state management.
 
 ###Guides
 
@@ -89,12 +90,12 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 
 ###Modules
 
+- [redux-form](http://redux-form.com/6.0.5/). Form state management.
 - [react-redux](https://github.com/reactjs/react-redux). Bindings for React.
 - [redux-thunk](https://github.com/gaearon/redux-thunk). Functions as actions.
 - [redux-optimist](https://github.com/ForbesLindesay/redux-optimist). Optimist state updates.
 - [redux-actions](https://github.com/acdlite/redux-actions). FLux Standard Actions for Redux.
 - [Normalizr](https://github.com/paularmstrong/normalizr). Normalize state tree.
-- [Mobx](https://mobxjs.github.io/mobx/). State management.
 
 ###Courses
 
