@@ -178,6 +178,12 @@ _runers, assertion libs, suites, etc._
 
 -----------------------------
 
+## Tooling
+
+- [Babel](http://babeljs.io/). JavaScript compiler. ES6, TypeScript, JSX.
+
+-----------------------------
+
 #CSS
 
 ##Flexbox
