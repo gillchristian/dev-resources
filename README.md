@@ -190,11 +190,12 @@ _runers, assertion libs, suites, etc._
 
 - [Flexbox patterns](http://www.flexboxpatterns.com/home).
 - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/).
+- [Flexbox in 5](https://philipwalton.github.io/solved-by-flexbox/).
 
 ##Tutorials
 
 - [CSS Tutorial](http://www.csstutorial.net/).
-- [w3schools](http://www.w3schools.com/css/).
+- [w3schools](http://flexboxin5.com/).
 
 -----------------------------
 
