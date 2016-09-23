@@ -5,7 +5,7 @@
 - [TLDR Learning JS Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani) by Addy Osmani.
 - [Free programing books, javascript frameworks list](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md).
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).
-- [Small js libraries](http://microjs.com/)
+- [Small JavaScript libraries](http://microjs.com/).
 
 --------------------------------
 
@@ -190,12 +190,11 @@ _runers, assertion libs, suites, etc._
 
 - [Flexbox patterns](http://www.flexboxpatterns.com/home).
 - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/).
-- [Flexbox in 5](https://philipwalton.github.io/solved-by-flexbox/).
 
 ##Tutorials
 
 - [CSS Tutorial](http://www.csstutorial.net/).
-- [w3schools](http://flexboxin5.com/).
+- [w3schools](http://www.w3schools.com/css/).
 
 -----------------------------
 
@@ -275,4 +274,3 @@ _runers, assertion libs, suites, etc._
 - [Now](https://zeit.co/now). Free, one step server & deploy.
 - [Heroku](https://www.heroku.com/).
 - [DigitalOcean](https://www.digitalocean.com/).
-
