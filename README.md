@@ -184,6 +184,18 @@ _runers, assertion libs, suites, etc._
 
 -----------------------------
 
+#[Elm](http://elm-lang.org)
+
+[Docs](http://elm-lang.org/docs).
+
+[An Introduction to Elm](https://guide.elm-lang.org). Official guide.
+
+[Examples](http://elm-lang.org/examples).
+
+[Package Manager](http://package.elm-lang.org).
+
+-----------------------------
+
 #CSS
 
 ##Flexbox
