@@ -175,6 +175,7 @@ _runers, assertion libs, suites, etc._
 - [Bluebird](http://bluebirdjs.com/docs/getting-started.html). Promises.
 - [highlight.js](https://github.com/isagalaev/highlight.js). Syntax highlighting for the Web.
 - [Lerna](https://github.com/lerna/lerna). Manage JS projects with multiple npm packages.
+- [markdown-js](https://github.com/evilstreak/markdown-js). JS markdown parser for Node and the browser.
 
 -----------------------------
 
