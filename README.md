@@ -71,6 +71,7 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 - [react-virtualized](https://bvaughn.github.io/react-virtualized/). React components for efficiently rendering large lists and tabular data.
 - [Mobx](https://mobxjs.github.io/mobx/). Flux based state management.
 - [Enzyme](https://github.com/airbnb/enzyme). Test utilities for React.
+- [Glamor](https://github.com/threepointone/glamor). Inline styles utilities.
 
 ###Guides
 
