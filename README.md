@@ -1,7 +1,8 @@
 # dev-resources
 
+*a list of resources for web development*
+
 --------------------------------
-<br>
 
 # JavaScript
 - [you might not need jquery](http://youmightnotneedjquery.com/).
