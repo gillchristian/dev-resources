@@ -1,6 +1,7 @@
 # dev-resources
 
 --------------------------------
+<br>
 
 # JavaScript
 - [you might not need jquery](http://youmightnotneedjquery.com/).
