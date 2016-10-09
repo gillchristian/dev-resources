@@ -2,8 +2,6 @@
 
 *a list of resources for web development*
 
---------------------------------
-
 # JavaScript
 - [you might not need jquery](http://youmightnotneedjquery.com/).
 - [TLDR Learning JS Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani) by Addy Osmani.
