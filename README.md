@@ -1,6 +1,6 @@
 # dev-resources
 
-#JavaScript
+# JavaScript
 - [you might not need jquery](http://youmightnotneedjquery.com/).
 - [TLDR Learning JS Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani) by Addy Osmani.
 - [Free programing books, javascript frameworks list](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md).
@@ -9,49 +9,58 @@
 
 --------------------------------
 
-##[Angular 1.x](https://angularjs.org/)
+## Angular 1.x
 
-_*[Docs](https://docs.angularjs.org/api)*_.
+*[Web](https://angularjs.org/)*
 
-###Modules
+*[Docs](https://docs.angularjs.org/api)*.
+
+### Modules
 
 - [ngTable](http://ng-table.com/#/).
 - [ui.router](http://angular-ui.github.io/ui-router/site/#/api/ui.router).
 - [ui.bootstrap](https://angular-ui.github.io/bootstrap/).
 - [angular-loading-bar](https://github.com/chieffancypants/angular-loading-bar)
 
-###Guides
+### Guides
 
 - [John Papa Angular Style Guide](http://www.johnpapa.net/angular-style-guide/)
 - [Todd Motto](https://github.com/toddmotto/angular-styleguide)
 
-###Blogs
+### Blogs
 
 - AngularJS Patterns and good practices: [Todd Motto blog](http://toddmotto.com/)
 - [Scotch.io](https://scotch.io/): [Angular Tutos](https://scotch.io/tag/angular-js)
 
-###Articles
+### Articles
 
 - [Anatomy of a large application](https://medium.com/@bojzi/anatomy-of-a-large-angular-application-f098e5e36994#.21vop7qt8)
 
 --------------------------------
 
-##[Ionic](http://ionicframework.com/)
+## Ionic
+
+*[Web](http://ionicframework.com/)*
 
 - [Get started](https://www.youtube.com/watch?v=C-UwOWB9Io4)
 - [Create your first app](https://scotch.io/tutorials/create-your-first-mobile-app-with-angularjs-and-ionic)
 
 --------------------------------
 
-##[Angular 2](https://angular.io/)
+## Angular 2
 
-_*[Docs](https://angular.io/docs/ts/latest/)*_
+
+*[Web](https://angular.io/)*
+
+*[Docs](https://angular.io/docs/ts/latest/)*
 
 - [Egghead tutorials](https://egghead.io/technologies/angular2)
 
 --------------------------------
 
-##[React](https://facebook.github.io/react/index.html)
+## React
+
+*[Web](https://facebook.github.io/react/index.html)*
 
 _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 
@@ -63,7 +72,7 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 
 [MERN Stack](http://mern.io/). _Mongo, Express, React, Node_.
 
-###Modules & Libraries
+### Modules & Libraries
 
 - [react-router](https://github.com/ReactTraining/react-router/tree/v4). router v4.
 - [Radium](http://stack.formidable.com/radium/). Inline style enhancements.
@@ -73,24 +82,26 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 - [Enzyme](https://github.com/airbnb/enzyme). Test utilities for React.
 - [Glamor](https://github.com/threepointone/glamor). Inline styles utilities.
 
-###Guides
+### Guides
 
 - [Airbnb style guide](https://github.com/airbnb/javascript/tree/master/react).
 
-###Blogs
+### Blogs
 
 - Build with react: [articles](http://buildwithreact.com/).
 
-###Books
+### Books
 
 - _SurviveJS - React and webpack_: [Github](https://github.com/survivejs/webpack_react/tree/master/manuscript) and [blog](http://survivejs.com/webpack_react/introduction/) versions.
 - React by example: [free chapter](http://reactkungfu.com/assets/misc/sample.pdf).
 
 --------------------------------
 
-## [Redux](http://redux.js.org/index.html)
+## Redux
 
-###Modules
+*[Web](http://redux.js.org/index.html)*
+
+### Modules
 
 - [redux-form](http://redux-form.com/6.0.5/). Form state management.
 - [react-redux](https://github.com/reactjs/react-redux). Bindings for React.
@@ -99,76 +110,82 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 - [redux-actions](https://github.com/acdlite/redux-actions). FLux Standard Actions for Redux.
 - [Normalizr](https://github.com/paularmstrong/normalizr). Normalize state tree.
 
-###Courses
+### Courses
 
 - [Getting started with Redux](https://egghead.io/series/getting-started-with-redux). egghead.io Dan Abramov Series - Part 1.
 - [Building React applications with idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux). egghead.io Dan Abramov Series - Part 2.
 
+--------------------------------
+
+## React Native
+
+*[Web](https://facebook.github.io/react-native/)*
 
 --------------------------------
 
-##[React Native](https://facebook.github.io/react-native/)
+## Node.js
 
---------------------------------
-
-##[Node.js](https://nodejs.org/)
+*[Web](https://nodejs.org/)*
 
 _*[Docs: v4.x.x LST](https://nodejs.org/dist/latest-v4.x/docs/api/)*_.
 _*[ES6 in Node.js](https://nodejs.org/en/docs/es6/)*_
 
-###Guides
+### Guides
 - [Understanding socket-io](https://medium.com/@Grigorkh/understanding-socket-io-23ad6d26d003#.bysrc710r)
 - [The art of node](https://github.com/maxogden/art-of-node). Introduction to Node.js
 - [Nodeschool.io](http://nodeschool.io/).
 
 --------------------------------
 
-##Reactive programing
+## Reactive programing
 
 - [reactivex.io](http://reactivex.io). Reactive programing library (observables pattern).
 - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754).
 
 --------------------------------
 
-##[Webpack](https://webpack.github.io/)
+## Webpack
+
+*[Web](https://webpack.github.io/)*
 
 - [Docs](http://webpack.github.io/docs/what-is-webpack.html).
 - [Getting started tutorial](http://webpack.github.io/docs/tutorials/getting-started/).
 - [webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard).
 
-###Articles / guides / posts
+### Articles / guides / posts
 
 - [Webpack The Confusing Parts](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.8yf9a2pjt).
 
 --------------------------------
 
-##Testing
+## Testing
+
 _runers, assertion libs, suites, etc._
 
-###E2E
+### E2E
 
 - [Protractor](https://angular.github.io/protractor/#/).
 - [Cucumber.js](https://github.com/cucumber/cucumber-js).
 - [Protractor-cucumber Framework](https://github.com/mattfritz/protractor-cucumber-framework).
 
-###Unit
+### Unit
 
 - [AVA](https://github.com/avajs/ava). Futuristic JS test runner.
 - [Jest](https://facebook.github.io/jest/). _React_, _Snapshots_.
 - [Karma](http://karma-runner.github.io/0.13/index.html).
 
-###Runners
+### Runners
 
 - [Mocha](https://mochajs.org/).
 
-###Assertion libs
+### Assertion libs
 
 - [Chai](http://chaijs.com/).
 - [Jasmine](http://jasmine.github.io/edge/introduction.html).
 
 -----------------------------
 
-##Single purpose libraries
+## Single purpose libraries
 
 - [Immutable.js](https://facebook.github.io/immutable-js/). Immutable data structures.
 - [D3.JS](https://d3js.org). Data driven documents.
@@ -187,7 +204,9 @@ _runers, assertion libs, suites, etc._
 
 -----------------------------
 
-#[Elm](http://elm-lang.org)
+# Elm
+
+*[Web](http://elm-lang.org)*
 
 [Docs](http://elm-lang.org/docs).
 
@@ -199,21 +218,21 @@ _runers, assertion libs, suites, etc._
 
 -----------------------------
 
-#CSS
+# CSS
 
-##Flexbox
+## Flexbox
 
 - [Flexbox patterns](http://www.flexboxpatterns.com/home).
 - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/).
 
-##Tutorials
+## Tutorials
 
 - [CSS Tutorial](http://www.csstutorial.net/).
 - [w3schools](http://www.w3schools.com/css/).
 
 -----------------------------
 
-#GIT
+# GIT
 
 - [The simple guide](http://rogerdudler.github.io/git-guide/)
 - Atlassian GIT:
@@ -222,7 +241,9 @@ _runers, assertion libs, suites, etc._
 
 -----------------------------
 
-#[Docker](https://www.docker.com/) :whale:
+# Docker :whale:
+
+*[Web](https://www.docker.com/)*
 
 - [What is Docker?](https://www.docker.com/what-docker).
 
@@ -232,13 +253,13 @@ _runers, assertion libs, suites, etc._
 - [Docker for Windows](https://docs.docker.com/engine/installation/windows/#/docker-for-windows).
 - [Installation on Ubuntu](https://docs.docker.com/engine/installation/linux/ubuntulinux/).
 
-##Best practices
+## Best practices
 
 - [For writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/).
 
 -----------------------------
 
-#Container Orchestration
+# Container Orchestration
 
 - [Rancher](http://rancher.com/).
 - [Docker Swarm](https://docs.docker.com/engine/swarm/).
@@ -246,7 +267,9 @@ _runers, assertion libs, suites, etc._
 
 -----------------------------
 
-#[Golang](https://golang.org/)
+# Golang
+
+*[Web](https://golang.org/)*
 
 - [A tour of Go](https://tour.golang.org/). Golang's oficial tutorial.
 - [An Introduction to programming in Go](http://www.golang-book.com/books/intro). Book.
@@ -255,7 +278,7 @@ _runers, assertion libs, suites, etc._
 
 -----------------------------
 
-#Microservices Architecture
+# Microservices Architecture
 
 **Seven articles series**. _Nginx_
 
@@ -275,16 +298,26 @@ _runers, assertion libs, suites, etc._
 
 -----------------------------
 
-#Servers
+# Servers
 
-##[Nginx](http://nginx.org/)
+## Nginx
+
+*[Web](http://nginx.org/)*
 
 - [Docs](http://nginx.org/en/docs/).
 - [Blog](https://www.nginx.com/blog/).
 
+## Caddy
+
+_Fast, HTTPS builtint, easy._
+
+*[Web](https://caddyserver.com/)*
+
+*[Docs](https://caddyserver.com/docs)*
+
 -----------------------------
 
-#Cloud Providers / Servers
+# Cloud Providers / Servers
 
 - [Now](https://zeit.co/now). Free, one step server & deploy.
 - [Heroku](https://www.heroku.com/).
