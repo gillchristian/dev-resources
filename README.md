@@ -83,6 +83,7 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 - [Mobx](https://mobxjs.github.io/mobx/). Flux based state management.
 - [Enzyme](https://github.com/airbnb/enzyme). Test utilities for React.
 - [Glamor](https://github.com/threepointone/glamor). Inline styles utilities.
+- [Reform](https://github.com/franleplant/reform). Form Validation library.
 
 ### Guides
 
