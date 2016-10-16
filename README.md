@@ -260,6 +260,7 @@ _runers, assertion libs, suites, etc._
 ## Best practices
 
 - [For writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/).
+- [docker-best-practices](https://github.com/FuriKuri/docker-best-practices). Collection of some docker practices.
 
 -----------------------------
 
