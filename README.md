@@ -112,6 +112,7 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 - [redux-optimist](https://github.com/ForbesLindesay/redux-optimist). Optimist state updates.
 - [redux-actions](https://github.com/acdlite/redux-actions). FLux Standard Actions for Redux.
 - [Normalizr](https://github.com/paularmstrong/normalizr). Normalize state tree.
+- [redux-vcr](https://github.com/joshwcomeau/redux-vcr). Record & replay user sessions.
 
 ### Courses
 
