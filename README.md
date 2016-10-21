@@ -9,6 +9,11 @@
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).
 - [Small JavaScript libraries](http://microjs.com/).
 
+## Package managers
+
+- [npm](http://npmjs.com/). *de facto* node.js package manager.
+- [yarn](https://yarnpkg.com). npm based with steroids!
+
 --------------------------------
 
 ## Angular 1.x
