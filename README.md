@@ -281,6 +281,10 @@ _runers, assertion libs, suites, etc._
 - [Building web apps with Golang](https://github.com/astaxie/build-web-application-with-golang). Guide / Book.
 - [Network programming with Go](https://jannewmarch.gitbooks.io/network-programming-with-go-golang-/content/index.html).
 
+## Testing
+
+- [Goconvey](https://github.com/smartystreets/goconvey). Testing suite with web view interface.
+
 -----------------------------
 
 # Microservices Architecture
