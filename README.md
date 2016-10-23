@@ -225,6 +225,8 @@ _runers, assertion libs, suites, etc._
 
 [Package Manager](http://package.elm-lang.org).
 
+[Elm Tutorial](https://www.elm-tutorial.org/en/). A tutorial on developing single page web applications (SPAs) with Elm.
+
 -----------------------------
 
 # CSS
