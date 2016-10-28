@@ -79,6 +79,10 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 
 [MERN Stack](http://mern.io/). _Mongo, Express, React, Node_.
 
+[Next.js](https://github.com/zeit/next.js). A minimalistic framework for server-rendered React applications.
+
+  - [Blog post](https://zeit.co/blog/next).
+
 ### Modules & Libraries
 
 - [react-router](https://github.com/ReactTraining/react-router/tree/v4). router v4.
