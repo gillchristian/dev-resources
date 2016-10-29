@@ -136,6 +136,14 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 
 --------------------------------
 
+## Vue 
+
+*[Web](http://vuejs.org/)*
+
+*[Repo](https://github.com/vuejs/vue)*
+
+--------------------------------
+
 ## Node.js
 
 *[Web](https://nodejs.org/)*
