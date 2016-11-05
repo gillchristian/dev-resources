@@ -148,7 +148,8 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 
 *[Web](https://nodejs.org/)*
 
-_*[Docs: v4.x.x LST](https://nodejs.org/dist/latest-v4.x/docs/api/)*_.
+_*[Docs: v6.x.x LST](https://nodejs.org/dist/latest-v6.x/docs/api/)*_.
+
 _*[ES6 in Node.js](https://nodejs.org/en/docs/es6/)*_
 
 ### Guides
