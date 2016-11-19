@@ -299,11 +299,23 @@ _runers, assertion libs, suites, etc._
 - [A tour of Go](https://tour.golang.org/). Golang's oficial tutorial.
 - [An Introduction to programming in Go](http://www.golang-book.com/books/intro). Book.
 - [Building web apps with Golang](https://github.com/astaxie/build-web-application-with-golang). Guide / Book.
-- [Network programming with Go](https://jannewmarch.gitbooks.io/network-programming-with-go-golang-/content/index.html).
+- [Network programming with Go](https://jannewmarch.gitbooks.io/network-programming-with-go-golang-/content/index.html). Book.
+
 
 ## Testing
 
 - [Goconvey](https://github.com/smartystreets/goconvey). Testing suite with web view interface.
+
+## Blogs & screen casts
+
+- [Go in 5 minutes](https://www.goin5minutes.com/). 5 minutes screen casts.
+- [Going Go Programing](https://www.goinggo.net/). Blog
+
+## Learning & Best practices
+
+- [Go by Example](https://gobyexample.com).
+- [Resources for newbies](https://dave.cheney.net/resources-for-new-go-programmers). Dave Cheney's Golang resources for beginners.
+
 
 -----------------------------
 
