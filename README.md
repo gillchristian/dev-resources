@@ -136,7 +136,7 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 
 --------------------------------
 
-## Vue 
+## Vue
 
 *[Web](http://vuejs.org/)*
 
@@ -168,7 +168,8 @@ _*[ES6 in Node.js](https://nodejs.org/en/docs/es6/)*_
 
 ## Webpack
 
-*[Web](https://webpack.github.io/)*
+*[Web v1](https://webpack.github.io/)*
+*[Web v2](https://webpack.js.org/)*
 
 - [Docs](http://webpack.github.io/docs/what-is-webpack.html).
 - [Getting started tutorial](http://webpack.github.io/docs/tutorials/getting-started/).
