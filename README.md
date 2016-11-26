@@ -317,6 +317,12 @@ _runers, assertion libs, suites, etc._
 - [Go by Example](https://gobyexample.com).
 - [Resources for newbies](https://dave.cheney.net/resources-for-new-go-programmers). Dave Cheney's Golang resources for beginners.
 
+## Libraries
+
+### CLI
+
+- [Survey](https://github.com/AlecAivazis/survey). Prompt tool.
+
 
 -----------------------------
 
