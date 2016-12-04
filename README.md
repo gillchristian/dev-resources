@@ -218,6 +218,7 @@ _runers, assertion libs, suites, etc._
 - [highlight.js](https://github.com/isagalaev/highlight.js). Syntax highlighting for the Web.
 - [Lerna](https://github.com/lerna/lerna). Manage JS projects with multiple npm packages.
 - [markdown-js](https://github.com/evilstreak/markdown-js). JS markdown parser for Node and the browser.
+- [Trae](https://github.com/huemul/trae). Fetch based HTPP client.
 
 -----------------------------
 
