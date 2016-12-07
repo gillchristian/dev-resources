@@ -98,6 +98,7 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
   - [Radium](http://stack.formidable.com/radium/). Inline style enhancements.
   - [Glamor](https://github.com/threepointone/glamor). Inline styles utilities.
   - [Styled components](https://github.com/styled-components/styled-components).
+    - [styled-mixin](https://github.com/dimapaloskin/styled-mixin). Simple wrapper for creating **styled-components** mixins.
 
 ### Guides
 
