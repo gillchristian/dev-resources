@@ -86,17 +86,23 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 ### Modules & Libraries
 
 - [react-router](https://github.com/ReactTraining/react-router/tree/v4). router v4.
-- [Radium](http://stack.formidable.com/radium/). Inline style enhancements.
 - [react-dnd](https://github.com/gaearon/react-dnd). Drang n Drop library.
 - [react-virtualized](https://bvaughn.github.io/react-virtualized/). React components for efficiently rendering large lists and tabular data.
-- [Mobx](https://mobxjs.github.io/mobx/). Flux based state management.
-- [Enzyme](https://github.com/airbnb/enzyme). Test utilities for React.
-- [Glamor](https://github.com/threepointone/glamor). Inline styles utilities.
-- [Reform](https://github.com/franleplant/reform). Form Validation library.
+- **State management**
+  - [Mobx](https://mobxjs.github.io/mobx/). Flux based state management.
+- **Forms**
+  - [Reform](https://github.com/franleplant/reform). Form Validation library.
+- **Testing**
+  - [Enzyme](https://github.com/airbnb/enzyme). Test utilities for React.
+- **CSS in JS & Inline Styles**
+  - [Radium](http://stack.formidable.com/radium/). Inline style enhancements.
+  - [Glamor](https://github.com/threepointone/glamor). Inline styles utilities.
+  - [Styled components](https://github.com/styled-components/styled-components).
 
 ### Guides
 
 - [Airbnb style guide](https://github.com/airbnb/javascript/tree/master/react).
+- [MePeS Style guide](https://github.com/mepasoensistemas/react-style-guide). Airbnb based style guide.
 
 ### Blogs
 
