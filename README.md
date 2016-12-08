@@ -163,6 +163,7 @@ _*[ES6 in Node.js](https://nodejs.org/en/docs/es6/)*_
 - [Understanding socket-io](https://medium.com/@Grigorkh/understanding-socket-io-23ad6d26d003#.bysrc710r)
 - [The art of node](https://github.com/maxogden/art-of-node). Introduction to Node.js
 - [Nodeschool.io](http://nodeschool.io/).
+- [How to structure a Node project](https://blog.risingstack.com/node-js-project-structure-tutorial-node-js-at-scale).
 
 --------------------------------
 
