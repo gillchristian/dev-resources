@@ -276,6 +276,36 @@ _runers, assertion libs, suites, etc._
 
 -----------------------------
 
+# Databases
+
+## [NoSQL](https://en.wikipedia.org/wiki/NoSQL)
+
+### [MongoDB](https://www.mongodb.com/)
+
+_Open-source cross-platform document-oriented database._
+
+- [Mongoose](http://mongoosejs.com/). Elegant mongodb object modeling for node.js.
+
+### [PouchDB](https://pouchdb.com/)
+
+_The Database that Syncs!_
+
+### [LevelUP](https://github.com/Level/levelup)
+
+_Fast & simple storage - a Node.js-style LevelDB wrapper._
+
+### [NeDN](https://github.com/louischatriot/nedb)
+
+_Embedded persistent or in memory database for Node.js, nw.js, Electron and browsers, 100% JavaScript._
+
+## [SQL](https://en.wikipedia.org/wiki/SQL)
+
+- [Sequelizejs](http://docs.sequelizejs.com/en/v3/). SQL promise-based ORM for Node.js
+
+### [PostgreSQL](https://www.postgresql.org/)
+
+-----------------------------
+
 # Docker :whale:
 
 *[Web](https://www.docker.com/)*
