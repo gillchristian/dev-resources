@@ -288,6 +288,10 @@ _Open-source cross-platform document-oriented database._
 
 - [Mongoose](http://mongoosejs.com/). Elegant mongodb object modeling for node.js.
 
+### [Redis](https://redis.io/)
+
+_In-memory data structure store, used as a database, cache and message broker._
+
 ### [PouchDB](https://pouchdb.com/)
 
 _The Database that Syncs!_
