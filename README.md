@@ -90,6 +90,7 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
 - [react-virtualized](https://bvaughn.github.io/react-virtualized/). React components for efficiently rendering large lists and tabular data.
 - **State management**
   - [Mobx](https://mobxjs.github.io/mobx/). Flux based state management.
+  - [Relay](https://facebook.github.io/relay/). A JavaScript framework for building data-driven React apps.
 - **Forms**
   - [Reform](https://github.com/franleplant/reform). Form Validation library.
 - **Testing**
