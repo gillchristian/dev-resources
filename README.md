@@ -99,6 +99,7 @@ _*[Docs](https://facebook.github.io/react/docs/getting-started.html)*_.
   - [Glamor](https://github.com/threepointone/glamor). Inline styles utilities.
   - [Styled components](https://github.com/styled-components/styled-components).
     - [styled-mixin](https://github.com/dimapaloskin/styled-mixin). Simple wrapper for creating **styled-components** mixins.
+  - [styled-jsx](https://github.com/zeit/styled-jsx). Full CSS support for JSX without compromises.
 
 ### Guides
 
