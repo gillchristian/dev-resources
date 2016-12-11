@@ -310,6 +310,8 @@ _Embedded persistent or in memory database for Node.js, nw.js, Electron and brow
 
 ### [PostgreSQL](https://www.postgresql.org/)
 
+### [MySQL](https://www.mysql.com/)
+
 -----------------------------
 
 # Docker :whale:
