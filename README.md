@@ -312,6 +312,12 @@ _Embedded persistent or in memory database for Node.js, nw.js, Electron and brow
 
 ### [MySQL](https://www.mysql.com/)
 
+## Query languages
+
+### [GraphQL](http://graphql.org/).
+
+_GraphQL is a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data._
+
 -----------------------------
 
 # Docker :whale:
