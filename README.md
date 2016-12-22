@@ -365,7 +365,7 @@ _Better to read in order._
 - [An Introduction to programming in Go](http://www.golang-book.com/books/intro). Book.
 - [Building web apps with Golang](https://github.com/astaxie/build-web-application-with-golang). Guide / Book.
 - [Network programming with Go](https://jannewmarch.gitbooks.io/network-programming-with-go-golang-/content/index.html). Book.
-
+- [The Go programming language](http://www.gopl.io/). Book.
 
 ## Testing
 
