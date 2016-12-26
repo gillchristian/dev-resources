@@ -9,10 +9,6 @@
 - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).
 - [Small JavaScript libraries](http://microjs.com/).
 
-## Books
-
-- [Professor Frisby Mostly Adequate Guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide).
-
 ## Package managers
 
 - [npm](http://npmjs.com/). *de facto* node.js package manager.
@@ -391,6 +387,13 @@ _Better to read in order._
 
 - [Survey](https://github.com/AlecAivazis/survey). Prompt tool.
 
+-----------------------------
+
+# Paradigms
+
+## Functional
+
+- [Professor Frisby Mostly Adequate Guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide).
 
 -----------------------------
 
