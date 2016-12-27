@@ -393,7 +393,9 @@ _Better to read in order._
 
 ## Functional
 
-- [Professor Frisby Mostly Adequate Guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide).
+- [Professor Frisby Mostly Adequate Guide to FP](https://github.com/MostlyAdequate/mostly-adequate-guide). Book.
+- [Awesome FP in JS](https://github.com/stoeffel/awesome-fp-js). Awesome guide.
+- [Awesome functional programming](https://github.com/xgrommx/awesome-functional-programming). Awesome guide.
 
 -----------------------------
 
